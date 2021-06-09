@@ -1,3 +1,11 @@
 // Hello world!
+<<<<<<< HEAD
 
 test hello world !
+||||||| 110b9c6
+*****
+test hello world!
+=======
+test hello world!
+_________________
+>>>>>>> fc97d735abf13df08c9c8cc0780e5811772d1933
