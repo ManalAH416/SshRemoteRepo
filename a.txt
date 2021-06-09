@@ -1,4 +1,12 @@
 
 // Hello world!
+<<<<<<< HEAD
 
 test hello world !
+||||||| a534fae
+
+test hello world!
+=======
+*****
+test hello world!
+>>>>>>> 110b9c607a25fa4c0f8b0fb3a04a133eadd56262
